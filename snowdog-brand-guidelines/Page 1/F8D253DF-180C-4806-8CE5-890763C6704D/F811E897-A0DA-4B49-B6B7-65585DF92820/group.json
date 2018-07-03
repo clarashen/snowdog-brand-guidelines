@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "F811E897-A0DA-4B49-B6B7-65585DF92820",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C7BEA490-CDCA-43B2-91AB-F8EA7E62D0E9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "52C16761-8BF2-49DE-BB69-98132E5F9825",
+    "height": 33,
+    "width": 170,
+    "x": 25,
+    "y": 203
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A3A4AC5E-655D-4540-BF52-D9D12A6C8A48"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "26E1D546-B19C-42C1-AE50-CFB9FF97754D"
+    },
+    {
+      "class": "group",
+      "id": "ECF3DA0E-791B-4E19-AF10-AAA23EC1104C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8209A167-A68E-40EB-813D-136BE66FDC05"
+    }
+  ],
+  "name": "Logo Copy 3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BA4A1DB2-FFE7-4F10-9080-70EF576BBFD5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

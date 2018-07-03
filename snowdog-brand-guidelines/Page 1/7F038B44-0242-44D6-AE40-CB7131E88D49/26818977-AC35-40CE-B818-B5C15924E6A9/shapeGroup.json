@@ -1,0 +1,86 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "26818977-AC35-40CE-B818-B5C15924E6A9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F2356823-E413-4DC3-B6B1-A2A1C08FF226",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "B8462E46-88FE-4673-922F-4B543ABDF5A1",
+    "height": 100,
+    "width": 100,
+    "x": 31,
+    "y": 86
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8C55C2C3-0FFE-477D-B14C-A25FBC22CA58"
+    }
+  ],
+  "name": "Border/Primary",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1686274509803922,
+          "green": 0.1450980392156863,
+          "red": 0.1176470588235294
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 1,
+        "thickness": 2
+      }
+    ],
+    "do_objectID": "6B773FBD-31DE-4B32-9CD3-906EFD238672",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1686274509803922,
+          "green": 0.1450980392156863,
+          "red": 0.1176470588235294
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "6F21A0B0-FC93-4A8E-AA20-C1E110D385A1",
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

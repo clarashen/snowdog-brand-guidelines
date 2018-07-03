@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "98819BEC-1CBA-4F1F-8388-A8A75A36912E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6EE5E671-06C0-4A7B-B0ED-3B13C3BFE0EA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "11A25AF8-45EF-4720-84BE-E073D2C6DA2C",
+    "height": 56,
+    "width": 237.5735551960995,
+    "x": 25,
+    "y": 841
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3C782005-1A14-4E6C-A0E6-7E2CB1B941A9"
+    }
+  ],
+  "name": "snowdog_logo_white copy 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "58A4D7CE-C695-4420-AB92-2294EC228167",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
